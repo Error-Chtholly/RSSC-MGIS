@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>影像裁剪.png</file>
+  </qresource>
+</RCC>

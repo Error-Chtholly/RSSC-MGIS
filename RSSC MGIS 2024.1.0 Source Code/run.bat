@@ -1,0 +1,1 @@
+"D:\Program Files\QGIS 3.34.8\bin\python-qgis-ltr.bat" "E:\RSSC MGIS\main.py" 

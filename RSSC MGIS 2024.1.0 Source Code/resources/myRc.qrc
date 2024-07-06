@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>主图标2024.1.0.ico</file>
+    <file>主图标.ico</file>
+  </qresource>
+  <qresource prefix="png">
+    <file>开发文档.png</file>
+    <file>日志.png</file>
+    <file>github.png</file>
+    <file>导出.png</file>
+    <file>重分类.png</file>
+    <file>影像裁剪.png</file>
+    <file>保存.png</file>
+    <file>联系开发者.png</file>
+    <file>关于Qt配置.png</file>
+    <file>帮助.png</file>
+    <file>MNDWI.png</file>
+    <file>NDVI.png</file>
+    <file>打开工程.png</file>
+    <file>放大.png</file>
+    <file>绘制点.png</file>
+    <file>随机森林.png</file>
+    <file>缩小.png</file>
+    <file>图片识别.png</file>
+    <file>退出系统.png</file>
+    <file>拖动.png</file>
+    <file>主图标新720.png</file>
+    <file>polygon.png</file>
+    <file>矩形.png</file>
+    <file>圆.png</file>
+    <file>编辑.png</file>
+    <file>删除.png</file>
+    <file>添加矢量.png</file>
+    <file>添加栅格.png</file>
+    <file>选择.png</file>
+  </qresource>
+</RCC>
